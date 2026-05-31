@@ -8,7 +8,7 @@ $result = mysqli_query($conn,"SELECT * FROM coffee");
 <html>
 <head>
     <title>Coffee Rating App</title>
-    <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
